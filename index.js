@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
 
 		// Change/remove current tab to active
 		jQuery(this).parent('li').addClass('active').siblings().removeClass('active');
-
+        jQuery(this).parent('li').removeClass('inactive').siblings().addClass('inactive');
 		e.preventDefault();
 	});
 });
