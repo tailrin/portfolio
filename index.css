@@ -145,7 +145,8 @@ li.inactive a, li.inactive a:hover {
 }
 
 .tab.active {
-    display:block;
+    display:flex;
+    flex-direction: column;
     height: 100%;
     width: 100%;
 }
