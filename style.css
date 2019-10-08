@@ -179,4 +179,8 @@ p {
     #projects {
         height: 100%;
     }
+    
+    body {
+        height: auto;
+    }
 }
