@@ -170,3 +170,17 @@ p {
         height: 100%;
     }
 }
+
+@media screen and (min-width: 850px){
+    #about-me {
+        height: 100%;
+    }
+    
+    #projects {
+        height: 100%;
+    }
+    
+    body {
+        height: 100%;
+    }
+}
