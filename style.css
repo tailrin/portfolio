@@ -82,7 +82,7 @@ body {
     color: white;
     display: none;
     padding: 50px;
-    height: auto%;
+    height: auto;
     flex-direction: row;
 }
 
