@@ -151,6 +151,10 @@ p {
     height: auto;
 }
 
+.flexible{
+    margin-bottom: 25px;
+}
+
 @media screen and (min-width: 600px) and (orientation: portrait){
     #about-me {
         height: 100%;
